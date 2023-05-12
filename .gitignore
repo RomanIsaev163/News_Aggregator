@@ -7,3 +7,5 @@
 /vcs.xml
 /inspectionProfiles/profiles_settings.xml
 /.idea/
+/parse_data/session.session
+/data/parsed/parsed.csv
