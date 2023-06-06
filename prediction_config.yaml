@@ -1,0 +1,6 @@
+paths:
+  path_to_predictions: "./data/predictions/"
+  path_to_processed: "./data/predictions/"
+  path_to_raw: "./data/raw/"
+
+date_format: "%Y-%m-%d"
